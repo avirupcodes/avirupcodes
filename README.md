@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## 💫 About Me
 
-<table>
+<table border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 Hello World! 👋
 
@@ -36,7 +36,7 @@ I'm **Avirup Chatterjee**, a passionate web developer working professionally sin
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.avirup@gmail.com)
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="100%" alt="Coding Animation"/>
 

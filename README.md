@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <table width="100%">
   <tr>
-    <!-- LEFT CONTENT -->
     <td width="60%" valign="top">
 
       <p>
@@ -45,7 +44,6 @@ Here are some ideas to get you started:
       
       <br>
       
-      <!-- SOCIAL BUTTONS -->
       <p>
       <a href="https://linkedin.com/in/codewithavirup">
         <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -63,7 +61,6 @@ Here are some ideas to get you started:
 
     </td>
 
-    <!-- RIGHT IMAGE -->
     <td width="40%" align="center">
       <img
         src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"

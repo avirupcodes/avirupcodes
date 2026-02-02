@@ -18,53 +18,56 @@ Here are some ideas to get you started:
 
 <table width="100%">
   <tr>
+    <!-- LEFT CONTENT -->
     <td width="60%" valign="top">
 
-      <p>
-      I’m <b>Avirup Chatterjee</b>, a passionate web developer working professionally since 2024.
-      I love turning ideas into functional, visually appealing, and scalable digital products.
-      Coding isn’t just my profession—it’s something I genuinely enjoy doing every day.
-      </p>
-      
-      <p>💻
-      I specialize in building modern web applications using
-      <b>HTML, CSS, JavaScript, React, Next.js, Node.js, PHP, Laravel</b>,
-      with strong experience in <b>MySQL</b> and <b>API development</b>.
-      </p>
-      
-      <p>🚀
-      I also work extensively with <b>WordPress</b>, creating custom,
-      performance-focused websites tailored to real business needs.
-      </p>
-      
-      <p>🎯
-      My approach focuses on clean code, scalability, performance,
-      and great user experience.
-      </p>
-      
-      <br>
-      
-      <p>
-      <a href="https://linkedin.com/in/codewithavirup">
-        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-      <a href="https://x.com/DevAvirupOnline">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-      </a>
-      <a href="https://instagram.com/your_abhirup">
-        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-      </a>
-      <a href="mailto:your.avirup@gmail.com">
-        <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
-      </p>
+<p>
+I’m <b>Avirup Chatterjee</b>, a passionate web developer working professionally since 2024.
+I love turning ideas into functional, visually appealing, and scalable digital products.
+Coding isn’t just my profession—it’s something I genuinely enjoy doing every day.
+</p>
+
+<p>💻
+I specialize in building modern web applications using
+<b>HTML, CSS, JavaScript, React, Next.js, Node.js, PHP, Laravel</b>,
+with strong experience in <b>MySQL</b> and <b>API development</b>.
+</p>
+
+<p>🚀
+I also work extensively with <b>WordPress</b>, creating custom,
+performance-focused websites tailored to real business needs.
+</p>
+
+<p>🎯
+My approach focuses on clean code, scalability, performance,
+and great user experience.
+</p>
+
+<br>
+
+<p>
+<a href="https://linkedin.com/in/codewithavirup">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://x.com/DevAvirupOnline">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+<a href="https://instagram.com/your_abhirup">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:your.avirup@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
     </td>
 
-    <td width="40%" align="center">
+    <!-- RIGHT IMAGE -->
+    <td width="40%" align="center" valign="top">
       <img
         src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"
-        width="320"
+        width="300"
+        style="max-width:100%; height:auto;"
         alt="Coding Animation"
       />
     </td>

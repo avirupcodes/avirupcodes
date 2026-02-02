@@ -16,31 +16,62 @@ Here are some ideas to get you started:
 -->
 <h2>💫 About Me</h2>
 
-<table>
+<h2>Hello World! 👋</h2>
+
+<table width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <!-- LEFT CONTENT -->
+    <td width="60%" valign="top">
 
-Hi, I’m <b>Avirup Chatterjee</b>, a passionate web developer working professionally since 2024.  
-I love turning ideas into functional, visually appealing, and scalable digital products.  
+<p>
+I’m <b>Avirup Chatterjee</b>, a passionate web developer working professionally since 2024.
+I love turning ideas into functional, visually appealing, and scalable digital products.
 Coding isn’t just my profession—it’s something I genuinely enjoy doing every day.
+</p>
 
-<br><br>
-
-I specialize in building modern web applications using  
+<p>
+💻 I specialize in building modern web applications using  
 <b>HTML, CSS, JavaScript, React, Next.js, Node.js, PHP, Laravel</b>,  
-with strong experience in <b>MySQL</b> and <b>API development</b>.  
-I also work extensively with <b>WordPress</b>, creating custom, performance-focused websites.
+with strong experience in <b>MySQL</b> and <b>API development</b>.
+</p>
 
-<br><br>
+<p>
+🚀 I also work extensively with <b>WordPress</b>, creating custom,
+performance-focused websites tailored to real business needs.
+</p>
 
-My approach focuses on clean code, scalability, performance, and great UX.  
-I’m constantly learning and refining my skills to stay aligned with modern web standards.
+<p>
+🎯 My approach focuses on clean code, scalability, performance,
+and great user experience.
+</p>
+
+<br>
+
+<!-- SOCIAL BUTTONS -->
+<p>
+<a href="https://linkedin.com/in/codewithavirup">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://x.com/DevAvirupOnline">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+<a href="https://instagram.com/your_abhirup">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:your.avirup@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
     </td>
-    <td width="35%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280" />
-
+    <!-- RIGHT IMAGE -->
+    <td width="40%" align="center">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"
+        width="320"
+        alt="Coding Animation"
+      />
     </td>
   </tr>
 </table>

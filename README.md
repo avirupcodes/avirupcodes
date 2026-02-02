@@ -14,8 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-Hi, I’m Avirup Chatterjee, a passionate web developer working professionally since 2024. I love turning ideas into functional, visually appealing, and scalable digital products. Coding isn’t just my profession—it’s something I genuinely enjoy doing every day.<br><br>I specialize in building modern web applications using HTML, CSS, JavaScript, React, Next.js, Node.js, PHP, and Laravel, with strong experience in MySQL and API development. I also work extensively with WordPress, creating custom, performance-focused websites tailored to real business needs.<br><br>My approach to development focuses on clean code, scalability, performance, and user experience. Whether it’s a dynamic web application, a business website, or a full-stack solution, I aim to deliver production-ready results that are reliable and maintainable.<br><br>I’m constantly learning, experimenting with new technologies, and refining my skills to stay aligned with modern web standards and industry best practices.
+<h2>💫 About Me</h2>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
+Hi, I’m <b>Avirup Chatterjee</b>, a passionate web developer working professionally since 2024.  
+I love turning ideas into functional, visually appealing, and scalable digital products.  
+Coding isn’t just my profession—it’s something I genuinely enjoy doing every day.
+
+<br><br>
+
+I specialize in building modern web applications using  
+<b>HTML, CSS, JavaScript, React, Next.js, Node.js, PHP, Laravel</b>,  
+with strong experience in <b>MySQL</b> and <b>API development</b>.  
+I also work extensively with <b>WordPress</b>, creating custom, performance-focused websites.
+
+<br><br>
+
+My approach focuses on clean code, scalability, performance, and great UX.  
+I’m constantly learning and refining my skills to stay aligned with modern web standards.
+
+    </td>
+    <td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280" />
+
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🌐 Socials:
@@ -31,4 +60,3 @@ Hi, I’m Avirup Chatterjee, a passionate web developer working professionally s
 ---
 [![](https://visitcount.itsvg.in/api?id=avirupcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

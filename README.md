@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>💫 About Me</h2>
+## 💫 About Me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## Hello World! 👋
+Hello World! 👋
 
 I'm **Avirup Chatterjee**, a passionate web developer working professionally since 2024. I love turning ideas into functional, visually appealing, and scalable digital products. Coding isn't just my profession—it's something I genuinely enjoy doing every day.
 

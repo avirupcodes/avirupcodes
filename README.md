@@ -16,62 +16,32 @@ Here are some ideas to get you started:
 -->
 <h2>💫 About Me</h2>
 
-<table width="100%">
-  <tr>
-    <!-- LEFT CONTENT -->
-    <td width="60%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-I’m <b>Avirup Chatterjee</b>, a passionate web developer working professionally since 2024.
-I love turning ideas into functional, visually appealing, and scalable digital products.
-Coding isn’t just my profession—it’s something I genuinely enjoy doing every day.
-</p>
+## Hello World! 👋
 
-<p>💻
-I specialize in building modern web applications using
-<b>HTML, CSS, JavaScript, React, Next.js, Node.js, PHP, Laravel</b>,
-with strong experience in <b>MySQL</b> and <b>API development</b>.
-</p>
+I'm **Avirup Chatterjee**, a passionate web developer working professionally since 2024. I love turning ideas into functional, visually appealing, and scalable digital products. Coding isn't just my profession—it's something I genuinely enjoy doing every day.
 
-<p>🚀
-I also work extensively with <b>WordPress</b>, creating custom,
-performance-focused websites tailored to real business needs.
-</p>
+💻 **With a strong foundation in HTML, CSS, JavaScript, React, Next.js, Node.js, PHP, and Laravel**, I specialize in building modern web applications with strong experience in **MySQL** and **API development**.
 
-<p>🎯
-My approach focuses on clean code, scalability, performance,
-and great user experience.
-</p>
+🚀 **In addition to my professional work**, I also work extensively with **WordPress**, creating custom, performance-focused websites tailored to real business needs.
 
-<br>
+🎯 **My approach focuses on clean code, scalability, performance, and great user experience.**
 
-<p>
-<a href="https://linkedin.com/in/codewithavirup">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://x.com/DevAvirupOnline">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-<a href="https://instagram.com/your_abhirup">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:your.avirup@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithavirup)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DevAvirupOnline)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_abhirup)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.avirup@gmail.com)
 
-    </td>
+</td>
+<td width="50%" valign="top">
 
-    <!-- RIGHT IMAGE -->
-    <td width="40%" align="center" valign="top">
-      <img
-        src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"
-        width="300"
-        style="max-width:100%; height:auto;"
-        alt="Coding Animation"
-      />
-    </td>
-  </tr>
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="100%" alt="Coding Animation"/>
+
+</td>
+</tr>
 </table>
 
 
